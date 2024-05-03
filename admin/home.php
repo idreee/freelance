@@ -1,0 +1,1 @@
+<h1>Тавтай морил <?php echo $_settings->info('name') ?></h1>
